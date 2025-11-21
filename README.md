@@ -80,7 +80,7 @@ python gui.py
 
 ## Example usage
 
-### Home screen (what you see when the GUI opens)
+### Home screen
 
 <img src=".github/images/homescreen.png"/>
 
