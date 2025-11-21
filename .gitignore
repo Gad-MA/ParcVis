@@ -1,0 +1,7 @@
+*egg-info*
+dist/
+data_samples/
+test.txt
+*__pycache__*
+parcvis_output.*
+env/
