@@ -1,6 +1,5 @@
-<h1 align="center">ParcVis</h1>
-
 <div align="center">
+<img src=".github/images/parcvis.png"/>
 <strong>GUI tool for brain parcellations visualization</strong>
 <img src=".github/images/banner.png"/>
 </div>
