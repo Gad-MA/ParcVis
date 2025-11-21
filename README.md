@@ -1,6 +1,9 @@
-# ParcVis
-GUI tool for brain parcellations visualization
+<h1 align="center">ParcVis</h1>
+
+<div align="center">
+<strong>GUI tool for brain parcellations visualization</strong>
 <img src=".github/images/banner.png"/>
+</div>
 
 ## Installation
 Follow these steps to set up a local environment and make sure ParcVis runs correctly. The GUI requires `tkinter`.
