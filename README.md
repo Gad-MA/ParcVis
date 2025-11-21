@@ -78,7 +78,7 @@ From the project root with your virtualenv active:
 python gui.py
 ```
 
-## Example usage
+## Usage
 
 ### Home screen
 
